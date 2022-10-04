@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "首页",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-nav-bar": "../../node-modules/@dcloudio/uni-ui/lib/uni-nav-bar/uni-nav-bar"
+  }
+}
